@@ -1,5 +1,4 @@
 # 💫 About Me:
-<br><br>
 I'm a passionate Flutter developer with 1 year of experience building complex Android apps. I love creating beautiful, user-friendly interfaces and managing app state with Provider. I'm also a wizard at crafting custom widgets and integrating APIs. Now, I'm diving into Django to master backend development and become a full-stack pro. I'm a quick learner, a hard worker, and always eager for new challenges. I'm excited to join an innovative team and contribute to their success!<br><br>
 
 
