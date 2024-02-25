@@ -68,6 +68,12 @@ I'm a passionate Flutter developer with 1 year of experience building complex An
 
 <br><br>
 
+<br>
+<div align="center">
+  <img src="assets/image06.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+<br><br>
 
 <img src="assets/image02.gif" width="100%" alt="marginline"/>
 
@@ -76,21 +82,14 @@ I'm a passionate Flutter developer with 1 year of experience building complex An
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=My+Tech+Stacks!" alt="My Tech Stacks!" width="90%" align="middle"/>
   <img src="assets/image03.gif" width="1.75%" align="right" alt="flame2"/>
 </div>
-
-<img src="assets/image02.gif" width="100%" alt="marginline"/>
 <br>
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,,firebase,php,laravel,nodejs,django,py,java,docker,&perline=10)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,nodejs,django,py,java,docker,&perline=10)
 
-</div>
-<br>
-<div align="center">
-  <img src="assets/image06.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 
 <img src="assets/image02.gif" width="100%" alt="marginline"/>
-
 
 
 <br><br>
