@@ -37,9 +37,14 @@
 <img align="right" src="assets/image05.gif" height="560px" alt="pixel city image">
 
 <p style="animation: fadein 2s; font-size: medium">
-I'm a passionate Flutter developer with 1 year of experience building complex Android apps. I love creating beautiful, user-friendly interfaces and managing app state with Provider. I'm also a wizard at crafting custom widgets and integrating APIs. Now, I'm diving into Django to master backend development and become a full-stack pro. I'm a quick learner, a hard worker, and always eager for new challenges. I'm excited to join an innovative team and contribute to their success!
+I'm a passionate Flutter developer building complex Android apps. I love creating beautiful, user-friendly interfaces and managing app state with Provider and GetX. I'm also a wizard at crafting custom widgets and integrating APIs. <br>
+  
+Now, I'm diving into Laravel to master backend development and become a full-stack pro.  <br>
 
-<br>Feel free to explore my projects and get in touch for collaborations!<br>
+I'm a quick learner, a hard worker, and always eager for new challenges. I'm always excited to join an innovative team and contribute to their success! <br>
+
+Feel free to explore my projects and get in touch for collaborations!<br>
+
 </p>
 
 <br><br>
