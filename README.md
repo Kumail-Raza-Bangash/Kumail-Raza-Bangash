@@ -86,9 +86,9 @@ Feel free to explore my projects and get in touch for collaborations!
 </div>
 <br>
 <div align="center">
-
+<br>
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,mysql,java,&perline=10)
-
+<br>
 </div>
 
 <img src="assets/image02.gif" width="100%" alt="marginline"/>
