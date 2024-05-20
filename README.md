@@ -41,7 +41,9 @@
 
 Now, I am learing Laravel to master backend development and become a full-stack Developer. <br><br>
 
-I'm a quick learner, a hard worker, and always eager for new challenges. And feel free to explore my projects and get in touch for collaborations! <br>
+I'm a quick learner, a hard worker, and always eager for new challenges. <br><br>
+
+Feel free to explore my projects and get in touch for collaborations! <br>
 
 </p>
 
