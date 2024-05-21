@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- PRofile View
+<div align="center">
+
+  <div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=52&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Profile's+Views" alt="Profile View" width="50%" align="center"/>
+  <a href="https://visit-counter.vercel.app/"> 
+    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FdevXprite%2Fvisit-counter&s=70&c=00ff00&bg=00000000&no=3&ff=digii" alt="visits" align="center" /> 
+  </a>
+
+  </div>
+  <img src="assets/image03.gif" width="1.75%" align="left" alt="flame1"/>
+  <img src="assets/image03.gif" width="1.75%" align="right" alt="flame2"/>
+</div>
+
+<img src="assets/image02.gif" width="100%" alt="marginline"/>
+<!-- End Profile View
+<br><br-->
+
+
+
 <img src="assets/image02.gif" width="100%" alt="marginline"/>
 
 <div align="center">
@@ -40,6 +64,10 @@
   I am a passionate Flutter developer. I love creating beautiful, user-friendly interfaces and managing application state with Bloc, Getx, and Provider. I am integrating API with MVVM pattern and also creating custom widgets, Flutter animation.  <br>
 
 Now, I am learing Laravel to master backend development and become a full-stack Developer. <br>
+
+
+</body>
+</html>
 
 I'm a quick learner, a hard worker, and always eager for new challenges. <br>
 
