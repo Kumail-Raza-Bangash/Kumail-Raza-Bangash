@@ -117,7 +117,7 @@ Feel free to explore my projects and get in touch for collaborations! <br>
 <br><br>
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,mysql,java,&perline=10)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,mysql,java,docker,&perline=10)
 
 </div><br>
 
