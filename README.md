@@ -60,7 +60,7 @@
 <img align="right" src="assets/image05.gif" height="560px" alt="pixel city image">
 
 <p style="animation: fadein 2s; font-size: medium">
-  I am a passionate Flutter developer. I love creating beautiful, user-friendly interfaces and managing application state with Bloc, Getx, and Provider. I am integrating API with MVVM pattern and also creating custom widgets, Flutter animation.  <br>
+  I am a passionate Flutter developer. I specialize in Mobile App Development for both Android and iOS. I am integrating APIs using MVVM and MVC patterns, and managing app state with Bloc, GetX, and Provider. I focus on building beautiful, responsive and high-quality Apps with custom widgets and Flutter Animations.  <br>
 
 Now, I am learing Laravel to master backend development and become a full-stack Developer. <br>
 
